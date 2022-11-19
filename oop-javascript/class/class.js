@@ -1,10 +1,8 @@
 // Jadi untuk class di JavaScript nenggunakan syntax seperti dibawah
-class name {
-
-}
+class Name {}
 
 //Masukin kedalam variable agar bisa di panggil
-const nama = new name();
+const nama = new Name();
 
 //Panggil
-console.log(nama)
+console.log(nama);
