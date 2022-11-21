@@ -15,7 +15,6 @@ const nama = new Nama("budi", "roger");
 // jika kita ingin memanggil method di dalam constructor-function kita bisa menggunakan cara seperti ini
 console.log(nama.sayIt("your Dad"));
 
-
 {
   //contoh tak menggunakan kata kunci return
   function Nama(first, two) {

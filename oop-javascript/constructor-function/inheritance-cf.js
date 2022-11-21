@@ -13,8 +13,6 @@ function Officer(first, last) {
   this.gaji = last;
 }
 
-
-
 // kita panggil semua constructor-function tadi
 const boss = new Boss("pekerja");
 const office = new Officer("pekerja", 100);
