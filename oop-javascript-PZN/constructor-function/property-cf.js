@@ -1,4 +1,4 @@
-/* eslint-disable no-redeclare */
+ 
 // Cara membuat property di constructor-function sangatlah mudah kita bisa menggunakan kata kunci (this)
 // Contoh :
 function Nama() {

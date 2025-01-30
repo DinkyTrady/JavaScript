@@ -1,4 +1,4 @@
-/* eslint-disable no-inner-declarations */
+ 
 // Menggunakan method dalam constructor-function
 
 function Nama(first, two) {
